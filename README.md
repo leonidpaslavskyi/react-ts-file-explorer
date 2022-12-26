@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# File Explorer like vscode written by React v18 and TypeScript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and was written by React v18 and TypeScript.
 
